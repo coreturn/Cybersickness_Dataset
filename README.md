@@ -1,4 +1,4 @@
-# CS_Dataset
+# Cybersickness_Dataset
 
 * ./data/rawdata2020.p: Raw data including motion, biosignal and so on.
 
